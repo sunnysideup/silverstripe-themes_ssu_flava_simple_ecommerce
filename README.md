@@ -15,7 +15,7 @@
 
  * [Developer Docs](docs/en/INDEX.md)
  * [User Guide](docs/en/userguide.md)
- * [API Docs](http://docs.ssmods.com/sunnysideup/themes_ssu_flava_simple_ecommerce)
+ * [API Docs](http://docs.ssmods.com/sunnysideup/themes_ssu_flava_simple_ecommerce/classes.xhtml)
 
 ## Requirements
 
